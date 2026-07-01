@@ -341,3 +341,5 @@ Here is a template structure you can use to deliver an outstanding seminar prese
   - Summarize achievements: Offline capable, private data, zero API cost.
   - Future scope: Quantization of larger models (e.g., Llama-3 or Mistral-7B) to run on local laptops, web assembly models running directly in browsers.
   - Open the floor for questions from the committee/audience.
+#   F l o w P i l o t - A I  
+ 
